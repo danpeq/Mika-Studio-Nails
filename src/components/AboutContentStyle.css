@@ -15,8 +15,15 @@
   max-width: 350px;
 }
 
+.about .left h1 {
+  margin: 1.2rem;
+  color: #F08080;
+}
+
 .about .left p {
   margin: 1.2rem;
+  color: #F08080;
+  font-size: 25px;
 }
 
 .about .right {

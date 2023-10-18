@@ -1,14 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bodoni+Moda:opsz@6..96&family=Dancing+Script&family=Montserrat:wght@300&family=Oooh+Baby&family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Space+Mono&family=Tenor+Sans&family=Work+Sans:wght@400;500;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oooh+Baby&display=swap');
 
 *{
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'Outfit', sans-serif;
+  font-family: 'Oooh Baby', cursive;
 }
 
 body {
-  background: #000;
+  background: #FDF5E6;
 }
 
 /* Text Styling */
@@ -29,7 +29,7 @@ ul {
   padding: 12px 32px;
   font-size: 1rem;
   text-transform: uppercase;
-  background: rgb(248, 217, 15);
+  background: #FDF5E6;
   color: #222;
   border: 1px solid #fff;
   font-weight: 600;

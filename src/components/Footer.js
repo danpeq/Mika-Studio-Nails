@@ -1,6 +1,6 @@
 import React from "react";
 import "./FooterStyle.css"
-import { FaGithub, FaHome, FaLinkedinIn, FaMailBulk, FaPhone } from "react-icons/fa";
+import { FaGithub, FaHome, FaInstagram, FaLinkedinIn, FaMailBulk, FaPhone, FaTiktok } from "react-icons/fa";
 import { NavLink } from "react-router-dom";
 
 const Footer = () => {
@@ -21,7 +21,7 @@ const Footer = () => {
                   size={20} 
                   style={{ color: "#fff", marginRight: "2rem" }}
                 />
-          +51 987857139</h4>
+          956711536</h4>
 
           </div>
           <div className="email">
@@ -29,22 +29,22 @@ const Footer = () => {
                   size={20} 
                   style={{ color: "#fff", marginRight: "2rem" }}
                 />
-            peq.daniel27@outlook.com
+            kassia_s7@hotmail.com
             </h4>
           </div>
         </div>
 
         <div className="right">
-          <h4>About me</h4>
+          <h4>Dale click!</h4>
           <p>
-            These are the social networks where you can find me
+            Estas son las redes sociales en las que nos puedes encontrar
           </p>
           <div className="social">
               <a 
                 target="_blank" 
-                href="https://www.linkedin.com/in/daniel-peque%C3%B1o-997814291/"
+                href="https://www.instagram.com/mika.studionails/"
               >
-               <FaLinkedinIn             
+               <FaInstagram             
                 size={30} 
                 style={{ color: "#fff", marginRight: "1rem" }}
               /> 
@@ -52,9 +52,9 @@ const Footer = () => {
               
               <a 
                 target="_blank" 
-                href="https://github.com/danpeq"
+                href="https://www.tiktok.com/@mika.nails1"
               >
-                <FaGithub 
+                <FaTiktok 
                 size={30} 
                 style={{ color: "#fff", marginRight: "1rem" }}
               />
